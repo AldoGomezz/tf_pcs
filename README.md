@@ -1,1 +1,3 @@
-# tf_pcs
+# Trabajo Final Prgramación Concurrente
+##Morales, Elvis
+##Gómez, Aldo
