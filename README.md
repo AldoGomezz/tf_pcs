@@ -1,3 +1,3 @@
 # Trabajo Final Prgramación Concurrente
-##Morales, Elvis
-##Gómez, Aldo
+## Morales, Elvis
+## Gómez, Aldo
